@@ -1,2 +1,2 @@
-# ConsoleApp1
+# Game Of Live
 GameOfLive on console
